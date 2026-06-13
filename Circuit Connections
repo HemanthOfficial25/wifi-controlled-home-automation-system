@@ -1,0 +1,6 @@
+Relay Module → ESP32
+
+VCC → 5V
+GND → GND
+IN1 → GPIO26
+IN2 → GPIO27
